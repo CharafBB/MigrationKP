@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "cidr-block": "11.0.0.0/16",
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaash4o3dkjte2cghkkpaymdra2fnqxihyuyu34334owhqlhywbq5ia",
+      "default-dhcp-options-id": "ocid1.dhcpoptions.oc1.eu-frankfurt-1.aaaaaaaa7pzjbypovwocimgaai4iz7wkeh2zvzwbiz6em2xin7hopwxi4qva",
+      "default-route-table-id": "ocid1.routetable.oc1.eu-frankfurt-1.aaaaaaaavqmzm45sfebagvlfx6zbcyu2zlal2fxsr75synkbz5ihrbsqfnbq",
+      "default-security-list-id": "ocid1.securitylist.oc1.eu-frankfurt-1.aaaaaaaa65r7sneq2oosoa5jue5obcr6plyoasvgh25dipq7cvzdrruaez7q",
+      "defined-tags": {},
+      "display-name": "Test2",
+      "dns-label": "test2",
+      "freeform-tags": {},
+      "id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaaxvru3kgcsaqx62hlvd367lgjximuzrsmvn326dzqieknwdrszj2q",
+      "ipv6-cidr-block": null,
+      "ipv6-public-cidr-block": null,
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2019-11-24T15:32:38.257000+00:00",
+      "vcn-domain-name": "test2.oraclevcn.com"
+    },
+    {
+      "cidr-block": "10.0.0.0/16",
+      "compartment-id": "ocid1.compartment.oc1..aaaaaaaash4o3dkjte2cghkkpaymdra2fnqxihyuyu34334owhqlhywbq5ia",
+      "default-dhcp-options-id": "ocid1.dhcpoptions.oc1.eu-frankfurt-1.aaaaaaaaycnj2fgm72zzzchg2esv6ddif7v3wpaagq5hixrbvlrhw4ikf5ra",
+      "default-route-table-id": "ocid1.routetable.oc1.eu-frankfurt-1.aaaaaaaa4xeifzyzc5ipqfobw3apyz3jr6xkeeyef7db6des7krk56why5eq",
+      "default-security-list-id": "ocid1.securitylist.oc1.eu-frankfurt-1.aaaaaaaa3pwlcxuba2epm5m72mbhwpi3qo3ehvimpfz4ijt7nk76n6yw2b3a",
+      "defined-tags": {},
+      "display-name": "TestVCN",
+      "dns-label": "testvcn",
+      "freeform-tags": {},
+      "id": "ocid1.vcn.oc1.eu-frankfurt-1.aaaaaaaa6mt64icqywdrnmbdobl4eppca7hl3amyu3cgdg44rzste42gahwa",
+      "ipv6-cidr-block": null,
+      "ipv6-public-cidr-block": null,
+      "lifecycle-state": "AVAILABLE",
+      "time-created": "2019-10-09T09:28:16.407000+00:00",
+      "vcn-domain-name": "testvcn.oraclevcn.com"
+    }
+  ]
+}
